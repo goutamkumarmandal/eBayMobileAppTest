@@ -4,9 +4,9 @@
 <listners>
 <listner class-name="target.Result.Screenshot"/>
 </listners>
-  <test thread-count="5" name="Test">
+  <test name="Test">
     <classes>
-      <class name="eBay.TestAutomationFramework.EbayAutomation"/>
+      <class name="eBayAndroid.EbayTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

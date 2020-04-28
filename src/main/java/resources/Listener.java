@@ -8,7 +8,7 @@ import org.testng.ITestResult;
 import org.testng.annotations.Listeners;  
 import org.testng.annotations.Test;
 
-import eBay.TestAutomationFramework.WrapperClass;
+import eBayAndroid.WrapperClass;
 public class Listener implements ITestListener   
 {  
 @Override  
